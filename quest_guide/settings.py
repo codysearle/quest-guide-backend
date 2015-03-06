@@ -52,11 +52,11 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'recipe_organizer.urls'
+ROOT_URLCONF = 'quest_guide.urls'
 
 WSGI_APPLICATION = 'recipe_organizer.wsgi.application'
 
-MEDIA_ROOT = '/Users/Cody/dev/bobs-recipe-organizer/backend/apps/recipes/media'
+MEDIA_ROOT = '/Users/Cody/dev/quest-guide/backend/apps/quests/media'
 
 MEDIA_URL = '/media/'
 

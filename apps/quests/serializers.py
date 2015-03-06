@@ -8,6 +8,12 @@ class IngredientSerializer(serializers.ModelSerializer):
         model = Ingredient
 
 
+class MonsterSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Monster
+
+
 class TagSerializer(serializers.ModelSerializer):
 
     class Meta:

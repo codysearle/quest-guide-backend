@@ -5,5 +5,5 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
 
-    url(r'^', include('apps.recipes.urls')),
+    url(r'^', include('apps.quests.urls')),
 )
