@@ -54,9 +54,9 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'quest_guide.urls'
 
-WSGI_APPLICATION = 'recipe_organizer.wsgi.application'
+WSGI_APPLICATION = 'quest_guide.wsgi.application'
 
-MEDIA_ROOT = '/Users/Cody/dev/quest-guide/backend/apps/quests/media'
+MEDIA_ROOT = '/Users/Cody/dev/quest-guide/backend/apps/recipes/media'
 
 MEDIA_URL = '/media/'
 
@@ -96,3 +96,4 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 CORS_ORIGIN_ALLOW_ALL = True
+

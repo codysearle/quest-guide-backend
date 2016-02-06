@@ -1,7 +1,4 @@
-Recipe Organizer
+Monster Hunter Quest Guide
 ================
 
-My recipe organizer is awesome!
-No really, it's the best one.
-
-This is a new change to my code.
+This project is a visual guide to all the quests in Monster Hunter 4 Ultimate.
